@@ -3,7 +3,7 @@
 ## how to use: 
 calling run.py creates image called bat.png. (keep in mind ull have to change paths and stuff)
 > dont ask about why the popin stuff
-basicly make waybar module like:
+- basicly make waybar module like:
 ``` json
 "image/bat":{
  "path":"/home/trollroy/.config/custom_run_scripts/battery-symbol/bat.png",
