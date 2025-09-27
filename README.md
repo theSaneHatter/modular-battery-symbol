@@ -13,7 +13,7 @@ basicly make waybar module like:
 },
 ```
 > - i dont even know if the interval is required, i just put it there 
-- than run run.py every so often to change the battey icon. 
+- run run.py every so often to change the battey icon on ur bar. 
 - I used a battery-symbol.timer system timer unit to call a system service that ran run.py. theres gutta be a batter way to do that but im too eepy. 
 
 ## the circle stuff
