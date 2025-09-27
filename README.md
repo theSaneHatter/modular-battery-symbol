@@ -19,4 +19,4 @@ calling run.py creates image called bat.png. (keep in mind ull have to change pa
 ## the circle stuff
 - like the android battery circle. just gutta cut out a section :skull: to make that arr usable as a battery icon. (didnt figure out how)
 
-!(image)[https://github.com/theSaneHatter/modular-battery-symbol/blob/main/bat.png]
+![image](https://github.com/theSaneHatter/modular-battery-symbol/blob/main/bat.png "e")
